@@ -1,3 +1,4 @@
 yarn add react-navigation
 expo install react-native-gesture-handler react-native-reanimated
 yarn add axios
+yarn add socket.io-client
